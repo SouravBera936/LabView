@@ -1,0 +1,13 @@
+
+Error Occured @ 14 Mar 2024 00:03:24 : Error -1074118656 occurred at niDMM Initialize.vi
+
+Possible reason(s):
+Device was not recognized. The device is not supported with this driver or version.
+
+Invalid Identifier: Dev1
+Error Occured @ 14 Mar 2024 00:03:27 : Error -1074118656 occurred at niDMM Initialize.vi
+
+Possible reason(s):
+Device was not recognized. The device is not supported with this driver or version.
+
+Invalid Identifier: Dev1
